@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Wenn der Button ausgewählt ist -->
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#BBBBFF"/> <!-- Hellblau -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+
+    <!-- Standard-Hintergrund -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#BBBBBB"/> <!-- Grau -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</selector>

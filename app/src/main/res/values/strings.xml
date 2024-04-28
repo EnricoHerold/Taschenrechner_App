@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spielwiese</string>
+    <string name="berechnen">Berechnen</string>
+    <string name="willkommen_bei">Willkommen bei</string>
+    <string name="ec_s_taschenrechner">EC\'s Taschenrechner !</string>
+    <string name="erste_zahl">Erste Zahl</string>
+    <string name="zweiteZahl">Zweite Zahl</string>
+    <string name="ergebnis">Ergebnis:</string>
+</resources>

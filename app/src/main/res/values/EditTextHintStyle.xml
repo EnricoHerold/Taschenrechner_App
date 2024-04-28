@@ -1,0 +1,6 @@
+<resources>
+    <style name="EditTextHintStyle">
+        <item name="android:textSize">12sp</item> <!-- Kleinere Textgröße für den Hint -->
+        <item name="android:layout_marginLeft">10dp</item> <!-- Linker Margin für den Text -->
+    </style>
+</resources>
